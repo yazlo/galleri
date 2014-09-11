@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+div{
+    border:solid 1px black;
+    width:200px;
+    margin:25px;
+    background: purple;
+    padding:20px 0;
+    float:left;
+}
+img{
+    margin:0 50px;
+}
+p{
+    color:white;
+    font-family: comic sans ms;
+    font-size:20px;
+    text-align:center;
+}
